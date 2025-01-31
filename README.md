@@ -1,11 +1,36 @@
 
 # InfnetFood
 
-Este é um projeto desenvolvido com **Expo** para a criação de um aplicativo mobile. O aplicativo inclui funcionalidades como navegação entre telas, exibição de produtos, pedidos, mapa, perfil do usuário e carrinho de compras.
+Este projeto da faculdade foi desenvolvido em **Expo snack** para a criação de um aplicativo mobile, foi um dos projetos desenvovidos durante os nossos 6 meses de estudos em desenvolvimento de aplicativos com react native. O aplicativo inclui funcionalidades como:
+
+Desenvolver aplicativos simples com os componentes "core" do React Native;
+Desenvolver aplicativos estilizados e com múltiplas telas, usando o React Native;
+Desenvolver aplicativos com listas e mostrando progresso, usando o React Native e;
+Desenvolver aplicativos com input dos usuários e imagens, usando o React Native. entre telas, exibição de produtos, pedidos, mapa, perfil do usuário e carrinho de compras.
+
+Com o objetivo desenvolver todas as competências trabalhadas ao longo da disciplina.
 
 ## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte maneira:
+
+├──  assets               
+│   └── # minhas imagens
+├──  screens           
+│   ├── Home.js
+│   ├── Produtos.js
+│   ├── DetalhesRestaurantes.js
+│   ├── Mapa.js
+│   ├── Pedidos.js
+│   ├── Produtos.js
+│   ├── Perfil.js
+│   └── carrinho.js
+├──  navigation   
+│   ├── TabNavigation .js        
+│   └──  Navigation.js 
+├──  context
+│   ├── TemaContext .js          
+├── App.js    
 
 ## Dependências
 
